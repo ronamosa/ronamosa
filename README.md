@@ -1,7 +1,8 @@
-# 💻 Talofa, I’m Ron.
+# 💀 Talofa, I’m Ron.
 
 - 💻 Architect/Hacker/Engineer/Geek.
 - 🇼🇸 NZ-born Samoan, Tuvalu, Chinese.
 - 🇳🇿 Based in Auckland, New Zealand.
 
-🔗 [learn more...](https://linktr.ee/uncommonengineer)
+
+## 🔗 [learn more...](https://linktr.ee/uncommonengineer)
