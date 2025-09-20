@@ -5,4 +5,4 @@
 - 🇳🇿 Based in Auckland, New Zealand.
 
 
-## 🔗 [learn more...](https://linktr.ee/uncommonengineer)
+## 🔗 [learn more...](https://ronamosa.io/)
