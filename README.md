@@ -23,8 +23,8 @@ I am a Hacker, Engineer, and Geek based in Auckland, New Zealand. My work bridge
 
 I write about the politics of technology, AI hype, and industry spin.
 
-- **🌐 Website**: [ronamosa.io](https://ronamosa.io/)
-- **📰 Newsletter**: [The Uncommon Engineer](https://www.uncommonengineer.com/)
+- **🌐 Website**: [The Uncommon Engineer](https://www.uncommonengineer.com/)
+- **📰 Newsletter**: [Subscribe!](https://www.uncommonengineer.com/subscribe)
 - **📺 YouTube**: [@uncommonengineer](https://www.youtube.com/@uncommonengineer)
 - **💼 LinkedIn**: [Ron Amosa](https://www.linkedin.com/in/ron-amosa/)
 
