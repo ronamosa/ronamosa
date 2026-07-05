@@ -2,7 +2,7 @@
 
 ### Talofa, I’m Ron. 🇼🇸 🇹🇻 🇨🇳 🇳🇿
 
->  I build infrastructure for the empire — and I see exactly how it breaks, from the inside. Pasifika technologist decoding AI systems, power, and sovereignty, twenty-plus years inside the machine. I write about the politics of technology, AI hype, and industry bullshit.
+>  I build infrastructure for the empire — so I can see exactly how it breaks, from the inside. Pasifika technologist decoding AI systems, power, and sovereignty, twenty-plus years inside the machine. I write about the politics of technology, AI hype, and industry bullshit.
 
 ---
 
