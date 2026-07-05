@@ -2,9 +2,7 @@
 
 ### Talofa, I’m Ron. 🇼🇸 🇹🇻 🇨🇳 🇳🇿
 
-> **Pasifika technologist decoding AI systems, power, and sovereignty — 20+ years inside the machine.**
-
-I am a Hacker, Engineer, and Geek based in Auckland, New Zealand. My work bridges the gap between deep technical engineering and critical analysis of the systems that shape our world.
+>  I build infrastructure for the empire — and I see exactly how it breaks, from the inside. Pasifika technologist decoding AI systems, power, and sovereignty, twenty-plus years inside the machine. I write about the politics of technology, AI hype, and industry bullshit.
 
 ---
 
@@ -21,10 +19,10 @@ I am a Hacker, Engineer, and Geek based in Auckland, New Zealand. My work bridge
 
 ### 🔗 Connect & Read
 
-I write about the politics of technology, AI hype, and industry spin.
+I write about the politics of technology, AI hype, and industry bullshit.
 
 - **🌐 Website**: [The Uncommon Engineer](https://www.uncommonengineer.com/)
-- **📰 Newsletter**: [Subscribe!](https://www.uncommonengineer.com/subscribe)
+- **📰 Newsletter**: [Subscribe!](https://bee.uncommonengineer.com/subscribe?utm_source=github&utm_medium=readme)
 - **📺 YouTube**: [@uncommonengineer](https://www.youtube.com/@uncommonengineer)
 - **💼 LinkedIn**: [Ron Amosa](https://www.linkedin.com/in/ron-amosa/)
 
